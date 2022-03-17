@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "62317309990ef0dc37fc0455"
+    },
+    "Nombre del tratamiento": "Ortodoncia",
+    "Paciente": "Santiago Reyes",
+    "Fecha": "28/11/2021",
+    "Observaciones": "Proxima cita en 1 mes"
+  },{
+    "_id": {
+      "$oid": "62317309990ef0dc37fc0456"
+    },
+    "Nombre del tratamiento": "Endodoncia",
+    "Paciente": "Alejandra Valencia",
+    "Fecha": "11/01/2022",
+    "Observaciones": "Proxima cita en 15 dias"
+  },{
+    "_id": {
+      "$oid": "62317309990ef0dc37fc0457"
+    },
+    "Nombre del tratamiento": "Periodoncia",
+    "Paciente": "Jorge Lasso",
+    "Fecha": "07/02/2022",
+    "Observaciones": "Proxima cita en 20 dias"
+  }]

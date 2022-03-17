@@ -1,0 +1,40 @@
+[{
+    "_id": {
+      "$oid": "62317a37990ef0dc37fc0465"
+    },
+    "Nombre": "Santiago",
+    "Apellido": "Reyes",
+    "Genero": "Masculino",
+    "Edad": "21",
+    "Telefono": "3116457949",
+    "Correo": "josecamilreyes9@gmail.com",
+    "Dirección": "Pasto Barrio Anganoy casa 11B",
+    "Estrato": "1",
+    "Rh": "O+"
+  },{
+    "_id": {
+      "$oid": "62317a37990ef0dc37fc0466"
+    },
+    "Nombre": "Alejandra",
+    "Apellido": "Valencia",
+    "Genero": "Femenino",
+    "Edad": "20",
+    "Telefono": "3214374171",
+    "Correo": "alejandrav@gmail.com",
+    "Dirección": "Pasto Barrio Rosales casa 17A",
+    "Estrato": "3",
+    "Rh": "O+"
+  },{
+    "_id": {
+      "$oid": "62317a37990ef0dc37fc0467"
+    },
+    "Nombre": "Jorge",
+    "Apellido": "Lasso",
+    "Genero": "Masculino",
+    "Edad": "27",
+    "Telefono": "3116457949",
+    "Correo": "jorgelass011@gmail.com",
+    "Dirección": "Pasto Barrio San Juan casa 17B",
+    "Estrato": "1",
+    "Rh": "O-"
+  }]

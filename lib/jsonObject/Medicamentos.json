@@ -1,0 +1,28 @@
+[{
+    "_id": {
+      "$oid": "6232595cec5b787a29765091"
+    },
+    "Nombre": "Clorhexidina",
+    "Descripcion": "Antibiotico para controlar la placa bacteriana",
+    "Dosis": "Enjuagues 2 veces al día, durante 30 segundos con 15 ml",
+    "Cantidad": "1 frasco x 120 ml",
+    "Paciente": "Santiago Reyes"
+  },{
+    "_id": {
+      "$oid": "6232595cec5b787a29765092"
+    },
+    "Nombre": "Acetaminofen",
+    "Descripcion": "Analgesico para aliviar el dolor",
+    "Dosis": "1 pildora cada 6 horas mientras persistan los sintomas",
+    "Cantidad": "15 pildoras x 500 mg",
+    "Paciente": "Santiago Reyes"
+  },{
+    "_id": {
+      "$oid": "6232595cec5b787a29765093"
+    },
+    "Nombre": "Enjuague bucal",
+    "Descripcion": "Solucion para mantener la higiene bucal",
+    "Dosis": "Enjuagues despues de cada comida",
+    "Cantidad": "Frasco X 500mL",
+    "Paciente": "Alejandra Valencia"
+  }]

@@ -1,0 +1,37 @@
+[{
+    "_id": {
+      "$oid": "62317d2e990ef0dc37fc046b"
+    },
+    "Nombre": "Nicolas",
+    "Apellido": "Barrea",
+    "Genero": "Masculino",
+    "Edad": "32",
+    "Especialidad": "Ortodoncia",
+    "Telefono": "3126458962",
+    "Correo": "nico45@gmail.com",
+    "Rh": "O+"
+  },{
+    "_id": {
+      "$oid": "62317d2e990ef0dc37fc046c"
+    },
+    "Nombre": "Carmen",
+    "Apellido": "Zuluaga",
+    "Genero": "Femenino",
+    "Edad": "40",
+    "Especialidad": "Endodoncia",
+    "Telefono": "3136444548",
+    "Correo": "zuluaga78@gmail.com",
+    "Rh": "O-"
+  },{
+    "_id": {
+      "$oid": "62317d2e990ef0dc37fc046d"
+    },
+    "Nombre": "Carlos",
+    "Apellido": "Teyez",
+    "Genero": "Masculino",
+    "Edad": "41",
+    "Especialidad": "Periodoncia",
+    "Telefono": "3116457812",
+    "Correo": "TeyezC45gmail.com",
+    "Rh": "O-"
+  }]

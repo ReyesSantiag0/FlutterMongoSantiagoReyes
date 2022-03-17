@@ -1,0 +1,28 @@
+[{
+    "_id": {
+      "$oid": "623252d1ec5b787a29765087"
+    },
+    "Fecha": "28/02/2022",
+    "Hora": "12:30 pm",
+    "Tratamiento": "Ortodoncia",
+    "Doctor": "Nicolas Barrera",
+    "Paciente": "Santiago Reyes"
+  },{
+    "_id": {
+      "$oid": "623252d1ec5b787a29765088"
+    },
+    "Fecha": "30/03/2022",
+    "Hora": "03:30 pm",
+    "Tratamiento": "Endodoncia",
+    "Doctor": "Carmen Zuluaga",
+    "Paciente": "Alejandra Valencia"
+  },{
+    "_id": {
+      "$oid": "623252d1ec5b787a29765089"
+    },
+    "Fecha": "15/04/2022",
+    "Hora": "09:30 am",
+    "Tratamiento": "Periodoncia",
+    "Doctor": "Carlos Teyes",
+    "Paciente": "Jorge Lasso"
+  }]

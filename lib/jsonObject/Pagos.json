@@ -1,0 +1,28 @@
+[{
+    "_id": {
+      "$oid": "62325d01ec5b787a297650b5"
+    },
+    "Tratamiento": "Ortodoncia",
+    "Fecha": "28/11/2021",
+    "Medio de pago": "Efectivo",
+    "Valor": "$50.000",
+    "Paciente": "Santiago Reyes"
+  },{
+    "_id": {
+      "$oid": "62325d01ec5b787a297650b6"
+    },
+    "Tratamiento": "Endodoncia",
+    "Fecha": "11/01/2022",
+    "Medio de pago": "Efectivo",
+    "Valor": "$50.000",
+    "Paciente": "Alejandra Valencia"
+  },{
+    "_id": {
+      "$oid": "62325d01ec5b787a297650b7"
+    },
+    "Tratamiento": "Periodoncia",
+    "Fecha": "07/02/2022",
+    "Medio de pago": "Efectivo",
+    "Valor": "$50.000",
+    "Paciente": "Jorge Lasso"
+  }]

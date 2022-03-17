@@ -1,0 +1,22 @@
+[{
+    "_id": {
+      "$oid": "62326708ec5b787a297650df"
+    },
+    "Servicio de": "Ortodoncia",
+    "Descripcion": "Servicio orientado a obtener una mejor estética dental",
+    "Doctor": "Nicolas Barrera"
+  },{
+    "_id": {
+      "$oid": "62326708ec5b787a297650e0"
+    },
+    "Servicio de": "Endodoncia",
+    "Descripcion": "Servicio orientado a eliminar la parte profunda del diente cuando se encuentra lesionado o infectado",
+    "Doctor": "Carmen Zuluaga"
+  },{
+    "_id": {
+      "$oid": "62326708ec5b787a297650e1"
+    },
+    "Servicio de": "Periodoncia",
+    "Descripcion": "Servicio orientado a la prevención, diagnóstico y tratamiento de las enfermedades que afectan las encías, al cemento radicular y al hueso alveolar",
+    "Doctor": "Carlos Teyez"
+  }]
